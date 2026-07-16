@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Mohamed03924-ewsd/Lord-Logo/refs/heads/main/SteamLord%20Logo.png" alt="SteamLord" width="112">
+  <img src="https://raw.githubusercontent.com/LOoOrds/SteamLord/blob/main/docs/Logo.png" alt="SteamLord" width="112">
 
   # SteamLord
 
