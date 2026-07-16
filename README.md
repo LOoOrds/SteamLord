@@ -17,7 +17,7 @@
 
 ## What Is SteamLord?
 
-SteamLord brings game management, updates, Online Fix, Bypass, and maintenance into one consistent experience inside the Steam client. Its controls appear where they are useful, including supported Steam Store pages and the Library, so daily operations do not require a separate game manager.
+SteamLord brings game management, updates, Online Fix, Compatibility Packages, and maintenance into one consistent experience inside the Steam client. Its controls appear where they are useful, including supported Steam Store pages and the Library, so daily operations do not require a separate game manager.
 
 The project combines a Steam-integrated interface with native runtime components, a reliable download helper, automatic recovery, and a verified compatibility layer. The Setup is only the installer and maintenance companion for this wider system.
 
@@ -27,7 +27,7 @@ The project combines a Steam-integrated interface with native runtime components
   <tr>
     <td align="center" width="33%"><img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%231688f8" alt="Games and DLC" width="54"><br><strong>Games and DLC</strong><br><sub>Manage supported titles and their content.</sub></td>
     <td align="center" width="33%"><img src="https://api.iconify.design/lucide/wrench.svg?color=%231688f8" alt="Online Fix" width="54"><br><strong>Online Fix</strong><br><sub>Apply and manage supported fixes.</sub></td>
-    <td align="center" width="33%"><img src="https://api.iconify.design/lucide/shield-check.svg?color=%231688f8" alt="Bypass" width="54"><br><strong>Bypass</strong><br><sub>Install available packages safely.</sub></td>
+    <td align="center" width="33%"><img src="https://api.iconify.design/lucide/shield-check.svg?color=%231688f8" alt="Bypass" width="54"><br><strong>Compatibility Packages</strong><br><sub>Install available packages safely.</sub></td>
   </tr>
   <tr>
     <td align="center"><img src="https://api.iconify.design/lucide/refresh-cw.svg?color=%231688f8" alt="Game Updates" width="54"><br><strong>Game Updates</strong><br><sub>Keep managed titles current.</sub></td>
@@ -51,9 +51,9 @@ Add or remove supported titles directly from their Steam pages. SteamLord prepar
 
 Discover, apply, update, or remove supported Online Fix packages without leaving Steam. The same guided interface reports progress and the final result throughout the operation.
 
-### <img src="https://api.iconify.design/lucide/shield-check.svg?color=%231688f8" alt="" width="32" align="center"> Bypass
+### <img src="https://api.iconify.design/lucide/shield-check.svg?color=%231688f8" alt="" width="32" align="center"> Compatibility Packages
 
-Install or remove available Bypass packages through a controlled workflow. SteamLord checks availability and handles package preparation while keeping the action consistent with the rest of the interface.
+Install or remove available Compatibility packages through a controlled workflow. SteamLord checks availability and handles package preparation while keeping the action consistent with the rest of the interface.
 
 ### <img src="https://api.iconify.design/lucide/refresh-cw.svg?color=%231688f8" alt="" width="32" align="center"> Game Updates
 
@@ -83,7 +83,7 @@ Give Steam a cleaner, modern appearance with SteamLord's glass-inspired interfac
 
 - Contextual controls appear on supported Steam game pages instead of living in a disconnected application.
 - Active operations can be minimized to the SteamLord task dock and restored without losing their current state.
-- Clear status, progress, and result dialogs keep Add, Update, Online Fix, and Bypass workflows consistent.
+- Clear status, progress, and result dialogs keep Add, Update, Online Fix, and Compatibility Packages workflows consistent.
 - Profile information shows license permissions and current usage limits without exposing private session data.
 - Optional Adhkar reminders and interface preferences can be enabled or disabled independently.
 
