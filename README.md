@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/LOoOrds/SteamLord/blob/main/docs/Logo.png" alt="SteamLord" width="112">
+  <img src="https://raw.githubusercontent.com/LOoOrds/SteamLord/main/docs/Logo.png" alt="SteamLord" width="112">
 
   # SteamLord
 
