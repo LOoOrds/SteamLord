@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="docs/steamlord-logo.png" alt="SteamLord" width="112">
+  <img src="https://raw.githubusercontent.com/Mohamed03924-ewsd/Lord-Logo/refs/heads/main/SteamLord%20Logo.png" alt="SteamLord" width="112">
 
   # SteamLord
 
@@ -25,57 +25,57 @@ The project combines a Steam-integrated interface with native runtime components
 
 <table>
   <tr>
-    <td align="center" width="33%"><img src="docs/icons/games.png" alt="Games and DLC" width="54"><br><strong>Games and DLC</strong><br><sub>Manage supported titles and their content.</sub></td>
-    <td align="center" width="33%"><img src="docs/icons/online-fix.png" alt="Online Fix" width="54"><br><strong>Online Fix</strong><br><sub>Apply and manage supported fixes.</sub></td>
-    <td align="center" width="33%"><img src="docs/icons/bypass.png" alt="Bypass" width="54"><br><strong>Bypass</strong><br><sub>Install available packages safely.</sub></td>
+    <td align="center" width="33%"><img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%231688f8" alt="Games and DLC" width="54"><br><strong>Games and DLC</strong><br><sub>Manage supported titles and their content.</sub></td>
+    <td align="center" width="33%"><img src="https://api.iconify.design/lucide/wrench.svg?color=%231688f8" alt="Online Fix" width="54"><br><strong>Online Fix</strong><br><sub>Apply and manage supported fixes.</sub></td>
+    <td align="center" width="33%"><img src="https://api.iconify.design/lucide/shield-check.svg?color=%231688f8" alt="Bypass" width="54"><br><strong>Bypass</strong><br><sub>Install available packages safely.</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/icons/updates.png" alt="Game Updates" width="54"><br><strong>Game Updates</strong><br><sub>Keep managed titles current.</sub></td>
-    <td align="center"><img src="docs/icons/achievements.png" alt="Achievements" width="54"><br><strong>Achievements</strong><br><sub>Supported achievement integration.</sub></td>
-    <td align="center"><img src="docs/icons/steam-features.png" alt="Steam Features" width="54"><br><strong>Steam Features</strong><br><sub>Extended Steam compatibility.</sub></td>
+    <td align="center"><img src="https://api.iconify.design/lucide/refresh-cw.svg?color=%231688f8" alt="Game Updates" width="54"><br><strong>Game Updates</strong><br><sub>Keep managed titles current.</sub></td>
+    <td align="center"><img src="https://api.iconify.design/lucide/trophy.svg?color=%231688f8" alt="Achievements" width="54"><br><strong>Achievements</strong><br><sub>Supported achievement integration.</sub></td>
+    <td align="center"><img src="https://api.iconify.design/lucide/users.svg?color=%231688f8" alt="Steam Features" width="54"><br><strong>Steam Features</strong><br><sub>Extended Steam compatibility.</sub></td>
   </tr>
   <tr>
-    <td align="center"><img src="docs/icons/cloud-saves.png" alt="Cloud Saves" width="54"><br><strong>Cloud Saves</strong><br><sub>Optional save routing for supported games.</sub></td>
-    <td align="center"><img src="docs/icons/requests.png" alt="Game Requests" width="54"><br><strong>Game Requests</strong><br><sub>Request titles and receive availability alerts.</sub></td>
-    <td align="center"><img src="docs/icons/themes.png" alt="Steam Themes" width="54"><br><strong>Steam Themes</strong><br><sub>A modern Steam look in multiple colors.</sub></td>
+    <td align="center"><img src="https://api.iconify.design/lucide/cloud-download.svg?color=%231688f8" alt="Cloud Saves" width="54"><br><strong>Cloud Saves</strong><br><sub>Optional save routing for supported games.</sub></td>
+    <td align="center"><img src="https://api.iconify.design/lucide/bell-plus.svg?color=%231688f8" alt="Game Requests" width="54"><br><strong>Game Requests</strong><br><sub>Request titles and receive availability alerts.</sub></td>
+    <td align="center"><img src="https://api.iconify.design/lucide/palette.svg?color=%231688f8" alt="Steam Themes" width="54"><br><strong>Steam Themes</strong><br><sub>A modern Steam look in multiple colors.</sub></td>
   </tr>
 </table>
 
 ## Features
 
-### <img src="docs/icons/games.png" alt="" width="32" align="center"> Games and DLC
+### <img src="https://api.iconify.design/lucide/gamepad-2.svg?color=%231688f8" alt="" width="32" align="center"> Games and DLC
 
 Add or remove supported titles directly from their Steam pages. SteamLord prepares the available DLC content and automates the required metadata, manifests, depot keys, and access information behind one clear action.
 
-### <img src="docs/icons/online-fix.png" alt="" width="32" align="center"> Online Fix
+### <img src="https://api.iconify.design/lucide/wrench.svg?color=%231688f8" alt="" width="32" align="center"> Online Fix
 
 Discover, apply, update, or remove supported Online Fix packages without leaving Steam. The same guided interface reports progress and the final result throughout the operation.
 
-### <img src="docs/icons/bypass.png" alt="" width="32" align="center"> Bypass
+### <img src="https://api.iconify.design/lucide/shield-check.svg?color=%231688f8" alt="" width="32" align="center"> Bypass
 
 Install or remove available Bypass packages through a controlled workflow. SteamLord checks availability and handles package preparation while keeping the action consistent with the rest of the interface.
 
-### <img src="docs/icons/updates.png" alt="" width="32" align="center"> Game Updates
+### <img src="https://api.iconify.design/lucide/refresh-cw.svg?color=%231688f8" alt="" width="32" align="center"> Game Updates
 
 Scan installed SteamLord games for newer releases, review the available changes, and update one title or several together through one consistent workflow.
 
-### <img src="docs/icons/achievements.png" alt="" width="32" align="center"> Achievements
+### <img src="https://api.iconify.design/lucide/trophy.svg?color=%231688f8" alt="" width="32" align="center"> Achievements
 
 Enable supported Steam achievement workflows for games managed through SteamLord while keeping the experience connected to the Steam client.
 
-### <img src="docs/icons/steam-features.png" alt="" width="32" align="center"> Steam Features
+### <img src="https://api.iconify.design/lucide/users.svg?color=%231688f8" alt="" width="32" align="center"> Steam Features
 
 SteamLord provides extended compatibility for supported Family Sharing, Remote Play, SteamStub, and Denuvo scenarios, with the required handling integrated into the native runtime.
 
-### <img src="docs/icons/cloud-saves.png" alt="" width="32" align="center"> Cloud Saves
+### <img src="https://api.iconify.design/lucide/cloud-download.svg?color=%231688f8" alt="" width="32" align="center"> Cloud Saves
 
 Optionally route cloud-save data for supported added games through the SteamLord Cloud Redirect runtime, keeping supported saves available through a managed SteamLord workflow.
 
-### <img src="docs/icons/requests.png" alt="" width="32" align="center"> Game Requests
+### <img src="https://api.iconify.design/lucide/bell-plus.svg?color=%231688f8" alt="" width="32" align="center"> Game Requests
 
 When a title is not available, SteamLord can record a request instead of leaving the user with a dead end. A notification appears when a previously requested game becomes available.
 
-### <img src="docs/icons/themes.png" alt="" width="32" align="center"> Steam Themes
+### <img src="https://api.iconify.design/lucide/palette.svg?color=%231688f8" alt="" width="32" align="center"> Steam Themes
 
 Give Steam a cleaner, modern appearance with SteamLord's glass-inspired interface and multiple color themes. The optional native styling extends the look across Steam itself, and users can disable it at any time to return to the original Steam appearance.
 
